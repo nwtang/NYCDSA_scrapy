@@ -1,0 +1,13 @@
+name: metacritic
+title: metacritic
+username:
+account: nwtang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1610129
+bundleId: 2681495
+url: https://nwtang.shinyapps.io/metacritic/
+when: 1576777210.72195
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: metacritic_reviews.csv|preprocess.R
